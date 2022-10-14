@@ -1,8 +1,10 @@
 //Load GSAP//
-loadScriptFile("https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js");
-}
-loadScriptFile("https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/Flip.min.js");
-}
+loadScriptFile(
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js"
+);
+loadScriptFile(
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/Flip.min.js"
+);
 
 function loadScriptFile(src) {
   const $script = $("<script>");
