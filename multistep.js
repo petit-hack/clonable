@@ -1,4 +1,4 @@
-//Load GSAP//
+//Load GSAP c//
 loadScriptFile(
   "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js"
 );
